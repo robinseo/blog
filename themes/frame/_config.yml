@@ -11,7 +11,7 @@ logo_image:
 
 menu:
   All articles: /articles/
-  Ruby And Rails: /categories/rails
+#  Ruby And Rails: /categories/rails
 
 # stylesheets loaded in the <head>
 stylesheets:
